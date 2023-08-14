@@ -1,0 +1,127 @@
+ 
+Automate 8 chosen 
+
+
+--- Display of the Transition Table of the FA  ---
+
+        a  
+----------------
+← 0     0  
+→ 1     0  
+
+
+Option 0: Print transition table
+Option 1: Check if deterministic
+Option 2: Check if deterministic and complete
+Option 3: Check if Standardized
+Option 4: Standardize the FA
+Option 5: Determinize and complete the FA
+Option 6: Get the complementary of the FA
+Option 7: Quit 
+
+
+
+
+ ********************************************* 
+
+Option 0 is CHOSEN: Print transition table
+
+ 
+ 
+--- Display of the Transition Table of the FA  ---
+
+        a  
+----------------
+← 0     0  
+→ 1     0  
+
+
+ ********************************************* 
+
+Option 1 is CHOSEN: Check if deterministic
+
+ 
+ 
+
+The FA provided is deterministic
+
+
+
+ ********************************************* 
+
+Option 2 is CHOSEN: Check if deterministic and complete
+
+ 
+ 
+
+The FA provided is already Deterministic AND Complete.
+
+
+
+ ********************************************* 
+
+Option 3 is CHOSEN: Check if Standardized
+
+ 
+ 
+
+The FA provided is Standardized.
+
+
+
+ ********************************************* 
+
+Option 4 is CHOSEN: Standardize the FA
+
+ 
+ 
+--- Display of the Transition Table of the FA  ---
+
+        a  
+----------------
+← 0     0  
+→ 1     0  
+
+The FA provided is ALREADY Standardized so no need to standardize it again.
+
+
+
+ ********************************************* 
+
+Option 5 is CHOSEN: Determinize and complete the FA
+
+ 
+ 
+
+It is already determinized and complete no need to do anything
+
+
+
+ ********************************************* 
+
+Option 6 is CHOSEN: Get the complementary of the FA
+
+ 
+ 
+--- Display of the Transition Table of the FA  ---
+
+        a  
+----------------
+  0     0  
+↔ 1     0  
+
+
+ ********************************************* 
+
+Option 7 is CHOSEN: Quit 
+
+ 
+ 
+
+*********** Goodbye! ***********
+
+Are you sure you want to quit? 
+  User clicked Yes
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

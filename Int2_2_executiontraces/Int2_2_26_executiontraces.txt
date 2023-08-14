@@ -1,0 +1,152 @@
+
+
+ Automate 26 chosen 
+
+
+--- Display of the Transition Table of the FA  ---
+
+         a   b   
+------------------------
+  0      -   -   
+→ 1      2   2   
+  2      0   3   
+← 3      3   3   
+
+
+Option 0: Print transition table
+Option 1: Check if deterministic
+Option 2: Check if deterministic and complete
+Option 3: Check if Standardized
+Option 4: Standardize the FA
+Option 5: Determinize and complete the FA
+Option 6: Get the complementary of the FA
+Option 7: Quit 
+
+
+
+
+ ********************************************* 
+
+Option 0 is CHOSEN: Print transition table
+
+ 
+ 
+--- Display of the Transition Table of the FA  ---
+
+         a   b   
+------------------------
+  0      -   -   
+→ 1      2   2   
+  2      0   3   
+← 3      3   3   
+
+
+ ********************************************* 
+
+Option 1 is CHOSEN: Check if deterministic
+
+ 
+ 
+
+The FA provided is deterministic
+
+
+
+ ********************************************* 
+
+Option 2 is CHOSEN: Check if deterministic and complete
+
+ 
+ 
+
+ it is not a complete autimata since there is empty in transition table
+
+
+The FA provided is already Deterministic, however it is NOT Complete.
+
+
+
+ ********************************************* 
+
+Option 3 is CHOSEN: Check if Standardized
+
+ 
+ 
+
+The FA provided is Standardized.
+
+
+
+ ********************************************* 
+
+Option 4 is CHOSEN: Standardize the FA
+
+ 
+ 
+--- Display of the Transition Table of the FA  ---
+
+         a   b   
+------------------------
+  0      -   -   
+→ 1      2   2   
+  2      0   3   
+← 3      3   3   
+
+The FA provided is ALREADY Standardized so no need to standardize it again.
+
+
+
+ ********************************************* 
+
+Option 5 is CHOSEN: Determinize and complete the FA
+
+ 
+ 
+
+ it is not a complete autimata since there is empty in transition table
+
+
+It is already determinized but not complete so here is the completed table
+
+--- Display of the Transition Table of the FA  ---
+
+        a  b  
+------------------------
+  0     P  P  
+→ 1     2  2  
+  2     0  3  
+← 3     3  3  
+  P     P  P  
+
+
+ ********************************************* 
+
+Option 6 is CHOSEN: Get the complementary of the FA
+
+ 
+ 
+--- Display of the Transition Table of the FA  ---
+
+        a  b  
+------------------------
+← 0     P  P  
+↔ 1     2  2  
+← 2     0  3  
+  3     3  3  
+← P     P  P  
+
+
+ ********************************************* 
+
+Option 7 is CHOSEN: Quit 
+
+ 
+ 
+
+*********** Goodbye! ***********
+
+Are you sure you want to quit? 
+  User clicked Yes
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
