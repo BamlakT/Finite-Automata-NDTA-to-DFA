@@ -1,4 +1,4 @@
-# Finite-Automata-NDFA-to-DFA
+# Finite-Automata-NFA-to-DFA
 
 ## Finite Automata Nondeterministic to Deterministic Conversion Project
 
