@@ -1,1 +1,1 @@
-# Finite-Automata-NDTA-to-DFA
+# Finite-Automata-NDFA-to-DFA
