@@ -10,8 +10,8 @@ A finite automaton is a mathematical model used to represent and analyze systems
 
 This project implements an algorithm that takes an NDFA as input and produces the corresponding DFA as output. The conversion involves determining the states of the DFA, the transitions, and the acceptance states. The algorithm employs techniques like subset construction to achieve this conversion.
 
-##Features
-# Conversion of NDFA to DFA.
-# Visualization of the original NDFA and the resulting DFA.
-# Detailed logging of the conversion process.
-# User-friendly command-line interface for input and output.
+## Features
+Conversion of NDFA to DFA.
+Visualization of the original NDFA and the resulting DFA.
+Detailed logging of the conversion process.
+User-friendly command-line interface for input and output.
